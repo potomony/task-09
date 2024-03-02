@@ -154,3 +154,41 @@
     font-size: 20px;
     font-weight: 700;
 }
+/*-------end fifth section------*/
+
+/*--------start sixth section-----*/
+.six-sec{
+    margin-bottom: 40px;
+}
+.head6{
+    margin-left: 92px;
+    font-size: 35px;
+    font-weight: 900px;
+    color: black;
+    margin-top: 60px;
+}
+.para6{
+    margin-left: 92px;
+    color: grey;
+    font-size: 17px;
+}
+
+
+.head9{
+    color: black;
+    font-size: 45px;
+    font-weight: 800;
+    margin-left: 90px;
+}
+.btn-std{
+    background-color: rgb(85, 194, 236);
+    color:white;
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius:5px;
+    font-size: 17px;
+    font-weight: 700;
+    margin-left: 460px;
+    margin-top:30px ;
+}
