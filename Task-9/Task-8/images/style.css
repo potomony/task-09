@@ -194,6 +194,32 @@
     margin-top:30px ;
 }
 
+/*-----start 8th section--------*/
+.eight-sec{
+    margin-left: 280px;
+    width: 900px;
+    margin-bottom: 50px;
+}
+.head8{
+    color: black;
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 50px;
+}
+.para8{
+    color:grey;
+    margin-left:40px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+}
+/*-------start ninth section-----*/
+.head9{
+    margin-left: 320px;
+    margin-bottom: 80px;
+}
+
+
 /*----------start tenth section------*/
 .tenth-sec{
     height: 300px;
