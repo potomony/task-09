@@ -193,12 +193,47 @@
     margin-left: 460px;
     margin-top:30px ;
 }
+/*----- start 7th section--------*/
+.sev-head{
+    color:black;
+    margin-left:400px ;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 40px;
+}
+.clr{
+    color:darkorange;
+}
+.sev-div{
+    border: 2px solid slategray;
+    width: 500px;
+    height: 300px;
+    margin-left: 100px;
+    
+}
+.card-paragraph{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 15px;
+    color: gray;
+}
+.paragraph7{
+    color: gray;
+    margin-left: 400px;
+    margin-bottom: 40px;
+}
+.last-img{
+    display: flex;
+    margin-right:20px;
+}
 
 /*-----start 8th section--------*/
 .eight-sec{
-    margin-left: 280px;
+    margin-left: 300px;
     width: 900px;
     margin-bottom: 50px;
+    margin-top: 50px;
 }
 .head8{
     color: black;
@@ -220,7 +255,7 @@
 }
 
 
-/*----------start tenth section------*/
+/*----------start last section------*/
 .tenth-sec{
     height: 300px;
     width: 1540px;
