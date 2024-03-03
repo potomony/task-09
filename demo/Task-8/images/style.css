@@ -1,0 +1,270 @@
+ /* -----first section start----------*/
+.main-nav{
+    margin-top: 50px;
+}
+.first-sec{
+    margin-bottom: 40px;
+    margin-left: 110px;
+}
+
+
+.btn-1{
+    height: 50px;
+    width: 150px;
+    border-color:skyblue;
+    color: skyblue;
+}
+.fnt{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: dimgray;
+}
+.first-one{
+    margin-left: 220px;
+    color:dimgray;
+    font-size: 18px;
+}
+
+.first{
+   margin-left: 40px;
+   color: dimgray;
+   font-size: 18px;
+}
+.second-one{
+    margin-left: 120px;
+}
+/*---------end first section---------*/
+
+/*------ start second section--------*/
+.heading1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 75px;
+    
+    color: white;
+}
+
+.container{
+    margin-top: 50px;
+}
+.para1{
+    color:white;
+    
+
+}
+.sl-btn{
+    background-color: rgb(78, 167, 203);
+    color:white;
+    width: 180px;
+    height: 55px;
+    border: none;
+    font-size: 25px;
+    margin-bottom: 160px;
+}
+
+.picture{
+    opacity:25;
+}
+/*--------end second section------*/
+
+/*------- start third section-------*/
+.btn-2{
+    height: 40px;
+    width: 250px;
+    background-color: rgb(95, 204, 247);
+    color: white;
+    border:none;
+    margin-left: 230px;
+    font-size: 25px;
+}
+.third-head{
+    margin-left: 230px;
+    color: black;
+}
+.card-para{
+    margin-left: 230px;
+    color: gray;
+    
+}
+
+/*----------start fourth section-------*/
+
+.fourth-sec{
+    
+    margin-top: 40px;
+    margin-left: 92px;
+
+
+}
+
+.f-para{
+    font-size: 17px;
+    color: gray;
+}
+.paragraph-div{
+    background-color:aliceblue;
+    padding-left: 40px;
+    padding-top: 100px;
+}
+.head-div{
+    color: black;
+    font-size: 45px;
+    text-align: right;
+
+   
+   
+}
+.para-div{
+    color: gray;
+    font-size: 20px;
+    text-align: right;
+    
+}
+/*------start fifth section---------------*/
+
+.fifth-sec{
+    height: 250px;
+    width: 1220px;
+    background-color: hsl(195, 83%, 48%);
+    margin-top: 80px;
+    margin-left: 92px;
+    border-radius: 8px;
+}
+
+.heading2{
+    margin-top: 50px;
+    color: white;
+    font-size: 35px;
+    padding-left:100px;
+}
+.paragraph2{
+    color: white;
+    padding-left:100px ;
+    font-size: 17px;
+}
+.btn-5{
+    background-color: white;
+    color:hsl(195, 83%, 48%);
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+    width: 220px;
+    margin-top: 100px;
+    margin-left: 200px;
+    font-size: 20px;
+    font-weight: 700;
+}
+/*-------end fifth section------*/
+
+/*--------start sixth section-----*/
+.six-sec{
+    margin-bottom: 60px;
+}
+.head6{
+    margin-left: 92px;
+    font-size: 35px;
+    font-weight: 900px;
+    color: black;
+    margin-top: 60px;
+}
+.para6{
+    margin-left: 92px;
+    color: grey;
+    font-size: 17px;
+}
+
+
+.head9{
+    color: black;
+    font-size: 45px;
+    font-weight: 800;
+    margin-left: 90px;
+}
+.btn-std{
+    background-color: rgb(85, 194, 236);
+    color:white;
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius:5px;
+    font-size: 17px;
+    font-weight: 700;
+    margin-left: 460px;
+    margin-top:30px ;
+}
+/*----- start 7th section--------*/
+.sev-head{
+    color:black;
+    margin-left:400px ;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 40px;
+}
+.clr{
+    color:darkorange;
+}
+.sev-div{
+    border: 2px solid slategray;
+    width: 500px;
+    height: 300px;
+    margin-left: 100px;
+    
+}
+.card-paragraph{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 15px;
+    color: gray;
+}
+.paragraph7{
+    color: gray;
+    margin-left: 400px;
+    margin-bottom: 40px;
+}
+.last-img{
+    display: flex;
+    margin-right:20px;
+}
+
+/*-----start 8th section--------*/
+.eight-sec{
+    margin-left: 300px;
+    width: 900px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.head8{
+    color: black;
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 50px;
+}
+.para8{
+    color:grey;
+    margin-left:40px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+}
+/*-------start ninth section-----*/
+.head9{
+    margin-left: 320px;
+    margin-bottom: 80px;
+}
+
+
+/*----------start last section------*/
+.tenth-sec{
+    height: 300px;
+    width: 1540px;
+    background-color: black;
+    color: white;
+    margin-top: 90px;
+    text-align: center;
+
+}
+.tenth-div{
+    padding-top: 60px;
+}
